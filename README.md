@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Naveen Kumar 👋
 
-<!--
-**naveenkumarportfolio/naveenkumarportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 BBA Finance & Marketing Analytics Student at Christ University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Aspiring Investment Banking Analyst
+
+### Interests
+
+- Financial Modeling
+- Equity Research
+- Valuation
+- Corporate Finance
+- SQL
+- Python
+- Power BI
+- Marketing Analytics
+
+### Current Projects
+
+- Financial Modeling Portfolio
+- Equity Research Reports
+- Annual Report Analysis
+- Banking Analytics Dashboards
+- Investment Banking Pitch Decks
+
+### Connect With Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
